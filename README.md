@@ -4,4 +4,5 @@
 <div/>
 <div id="tools" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height=70 width=70/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=70 width=70/>     
 <div/>
