@@ -16,6 +16,7 @@
 <br>
 <div id="vidjets" align="center">
   <p> Моя активность:
+  <br>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kavitosik&theme=chartreuse_dark">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kavitosik&theme=chartreuse_dark">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kavitosik&theme=chartreuse_dark">
