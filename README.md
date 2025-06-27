@@ -9,7 +9,8 @@
 <div id="tools" align="center">
   <p> Языки и инструменты которыми я владею<br>на начальном уровне если что:_) <p/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height=70 width=70/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=70 width=70/>     
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=70 width=70/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" height=70 width=70/> 
 <div/>
 
 ---
